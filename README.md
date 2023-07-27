@@ -2,7 +2,7 @@
 
 (Because pissing off Nintendo never works out well for anyone.) 
 
-An attempt at a recreation of a certain belond game (yellow version). 
+An attempt at a recreation of a certain beloved game (yellow version). 
 
 I made a fork of the original project because I deeply love this game. hopefully I can do something meaningful to add to it. 
 
